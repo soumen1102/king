@@ -40,7 +40,7 @@
         "rxjs": "7.5.7",
         "tslib": "2.5.0",
         "vis-data": "7.1.4",
-        "vis-network": "9.1.2",
+        "vis-network": "9.1.4",
         "vis-util": "5.0.3",
         "zone.js": "0.12.0"
     },
