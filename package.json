@@ -27,7 +27,7 @@
         "@angular/router": "14.2.12",
         "@ngx-translate/core": "14.0.0",
         "@ngx-translate/http-loader": "7.0.0",
-        "@swimlane/ngx-charts": "20.1.2",
+        "@swimlane/ngx-charts": "20.4.1",
         "file-saver": "2.0.5",
         "hammerjs": "2.0.8",
         "joi": "17.7.0",
